@@ -32,7 +32,7 @@
 
 - name: start tomcat
   service: 
-    name: {{ tomcat_service_name }} 
+    name: {{tomcat_service_name}} 
     state: started
     enabled: yes
   sudo: True
