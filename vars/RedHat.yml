@@ -1,4 +1,4 @@
-__tomcat8_home: /opt/tomcat
+#__tomcat8_home: /opt/tomcat
 
 # Tomcat binary to dl and related path
 __tomcat8_version: 8.5.27
