@@ -1,4 +1,4 @@
-__tomcat8_home: /opt/tomcat8
+__tomcat8_home: /opt/tomcat
 tomcat_service_name= tomcat8
 
 # Tomcat binary to dl and related path
